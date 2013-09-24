@@ -1,4 +1,4 @@
-JQCurrency jQuery Plugin Version 0.1 Beta
+JQCurrency Plugin Version 0.1 Beta
 ==================================================================
 
 jQuery Currency Conversion and Latest Exchange Rates jQuery Plugin with easy UI widget components such as Marquee, Tabular Data and many more..
